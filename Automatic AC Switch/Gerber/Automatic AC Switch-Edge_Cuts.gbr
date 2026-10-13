@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.5*%
+%TF.CreationDate,2026-10-13T21:41:15+05:30*%
+%TF.ProjectId,Automatic AC Switch,4175746f-6d61-4746-9963-204143205377,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.5) date 2026-10-13 21:41:15*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X89300000Y-65300000D02*
+X202700000Y-65300000D01*
+X202700000Y-133600000D01*
+X89300000Y-133600000D01*
+X89300000Y-65300000D01*
+M02*

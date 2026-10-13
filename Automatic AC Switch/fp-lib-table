@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "HC-SR501-master") (type "KiCad") (uri "${KIPRJMOD}/HC-SR501-master/HC-SR501-master") (options "") (descr ""))
+)
